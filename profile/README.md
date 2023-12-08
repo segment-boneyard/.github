@@ -1,6 +1,6 @@
 ## 💀 segment-boneyard 💀
 
-![💀](charnel.jpg)
+![💀](profile/charnel.jpg)
 
 The segment-boneyard organization houses repositories that were once in use by [Segment](https://github.com/segmentio/) but are no longer. Instead of destroying an old repository, it is moved here.
 
