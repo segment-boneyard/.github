@@ -1,6 +1,6 @@
 ## 💀 segment-boneyard 💀
 
-![💀](profile/charnel.jpg)
+![💀](boneyardsloth.png)
 
 The segment-boneyard organization houses repositories that were once in use by [Segment](https://github.com/segmentio/) but are no longer. Instead of destroying an old repository, it is moved here.
 
@@ -8,4 +8,4 @@ The segment-boneyard organization houses repositories that were once in use by [
 
 Find Segment's living codebase in the [segmentio organization](https://github.com/segmentio/).
 
-_Image credit: https://www.craiyon.com/_
+_Image credit: DALL-E 3_
